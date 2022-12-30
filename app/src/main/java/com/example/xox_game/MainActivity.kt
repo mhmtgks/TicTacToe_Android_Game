@@ -149,7 +149,7 @@ class MainActivity : AppCompatActivity() {
         var btn5 : ImageButton= findViewById(R.id.imageButton7)
         var btn6 : ImageButton= findViewById(R.id.imageButton5)
         var btn7 : ImageButton= findViewById(R.id.imageButton11)
-        var btn8 : ImageButton= findViewById(R.id.imageButton9)
+        var btn8 : ImageButton= findViewById(R.id.imageButton9)						//restarts the game
         var btn9 : ImageButton= findViewById(R.id.imageButton10)
 
         resButtoncolor(btn1)
